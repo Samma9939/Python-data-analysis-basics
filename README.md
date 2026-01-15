@@ -1,33 +1,41 @@
-The Public 2019 Stack Overflow Developer Survey Results
+# Python Data Analysis Basics
 
-Description:
+This repository contains my hands-on practice notebooks for **Python Data Analysis**
+using **Pandas**, based on **Corey Schafer's Pandas Tutorial series**.
 
-The enclosed data set is the full, cleaned results of the 2019 Stack Overflow Developer Survey. Free response submissions and personally identifying information have been removed from the results to protect the privacy of respondents. There are three files besides this README:
+## 📌 What is this project about?
+I practiced core Pandas concepts by working on the **Stack Overflow Developer Survey 2019**
+dataset. Each notebook focuses on a specific topic such as data cleaning, filtering,
+grouping, and time series analysis.
 
-1. survey_results_public.csv - CSV file with main survey results, one respondent per row and one column per answer
-2. survey_results_schema.csv - CSV file with survey schema, i.e., the questions that correspond to each column name
-3. so_survey_2019.pdf - PDF file of survey instrument
+## 📂 Contents
+- Pandas Day 1 – Basics  
+- Pandas Day 2 – Indexing & Selection  
+- Pandas Day 3 – Filtering Data  
+- Pandas Day 4 – Updating Rows & Columns  
+- Pandas Day 5 – Adding & Removing Rows/Columns  
+- Pandas Day 6 – Sorting Data  
+- Pandas Day 7 – Grouping & Aggregation  
+- Pandas Day 8 – Cleaning Data  
+- Pandas Day 9 – Dates & Time Series  
 
-The survey was fielded from January 23 to February 14, 2019. The median time spent on the survey for qualified responses was 23.3 minutes.
+## 📊 Dataset Used
+- **Stack Overflow Developer Survey 2019**
+- `survey_results_public.csv`
+- `survey_results_schema.csv`
 
-Respondents were recruited primarily through channels owned by Stack Overflow. The top 5 sources of respondents were onsite messaging, blog posts, email lists, Meta posts, banner ads, and social media posts. Since respondents were recruited in this way, highly engaged users on Stack Overflow were more likely to notice the links for the survey and click to begin it.
+## 🛠 Tools & Libraries
+- Python
+- Pandas
+- Jupyter Notebook
 
-As an incentive, respondents who finished the survey could opt in to a "Census" badge if they completed the survey.
+## 🎯 Purpose
+This repository is created for **learning and practice purposes** to strengthen my
+Python data analysis skills.
 
-You can find the official published results here:
+## 🙏 Credits
+- Corey Schafer (Pandas Tutorial Series)
+- Stack Overflow (Dataset)
 
-https://insights.stackoverflow.com/survey/2019
-
-Find previous survey results here:
-
-https://insights.stackoverflow.com/survey
-
-Legal:
-
-This database - The Public 2019 Stack Overflow Developer Survey Results - is made available under the Open Database License (ODbL): http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
-
-TLDR: You are free to share, adapt, and create derivative works from The Public 2019 Stack Overflow Developer Survey Results as long as you attribute Stack Overflow, keep the database open (if you redistribute it), and continue to share-alike any adapted database under the ODbl.
-
-Acknowledgment:
-
-Massive, heartfelt thanks to all Stack Overflow contributors and lurking developers of the world who took part in the survey this year. We value your generous participation more than you know. <3
+---
+⭐ If you are learning Pandas, feel free to explore the notebooks.
